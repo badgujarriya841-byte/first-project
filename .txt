@@ -1,0 +1,7 @@
+uv init
+
+uv venv
+
+activate (venv) (optional)
+
+uv add pandas
