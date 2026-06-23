@@ -5,3 +5,15 @@ uv venv
 activate (venv) (optional)
 
 uv add pandas
+
+===== Model building steps =====
+
+
+
+
+/////  libraries  /////
+ML ->   scikit-learn
+DL ->   pytorch
+        TenserFlow
+GenAI ->    Hagging 
+            face

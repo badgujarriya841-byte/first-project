@@ -1,6 +1,5 @@
-def main():
-    print("Hello from uv-project!")
+import pandas as pd
 
+df = pd.read_csv("data.csv")
 
-if __name__ == "__main__":
-    main()
+df.info()
